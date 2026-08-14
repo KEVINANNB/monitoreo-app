@@ -1,4 +1,5 @@
 # Práctica: monitoreo de sensores en tiempo real con React y Firebase RTDB
+<img width="334" height="285" alt="image" src="https://github.com/user-attachments/assets/1c5888a0-a669-4c21-8599-0d89f951b280" />
 
 **Asignatura:** Aplicaciones Telemáticas Basadas en la Web  
 **Escenario:** Campus La María de la Universidad Técnica Estatal de Quevedo (UTEQ)  
@@ -7,18 +8,6 @@
 ## 1. Objetivo
 
 Desarrollar una aplicación web telemática que se conecte a Firebase Realtime Database (RTDB) mediante el SDK oficial de Firebase para JavaScript y visualice, en tiempo real, las mediciones ambientales de sensores ubicados en el campus La María de la UTEQ.
-
-La aplicación debe mostrar:
-
-- Tarjeta de temperatura actual en grados Celsius.
-- Tarjeta de humedad relativa actual en porcentaje.
-- Tarjeta de presión atmosférica actual en hPa.
-- Fecha y hora de la última actualización.
-- Tabla con los últimos 20 registros históricos.
-- Página con la ubicación y los datos generales de cada sensor.
-- Selección de un sensor desde la página de ubicaciones.
-- Dashboard dinámico que muestre únicamente los datos del sensor seleccionado.
-- Actualización automática de la interfaz cuando cambien los datos en Firebase, sin recargar la página.
 
 ## 2. Resultado esperado
 
