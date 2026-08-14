@@ -1,5 +1,5 @@
 # Práctica: monitoreo de sensores en tiempo real con React y Firebase RTDB
-<img width="334" height="285" alt="image" src="https://github.com/user-attachments/assets/1c5888a0-a669-4c21-8599-0d89f951b280" />
+<img width="665" height="562" alt="image" src="https://github.com/user-attachments/assets/444f7be2-5623-4e53-af24-affd15058745" />
 
 **Asignatura:** Aplicaciones Telemáticas Basadas en la Web  
 **Escenario:** Campus La María de la Universidad Técnica Estatal de Quevedo (UTEQ)  
