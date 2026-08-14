@@ -7,6 +7,12 @@
 * { box-sizing: border-box; }
 body { margin: 0; }
 
+/* Corrección para títulos: asegura que sean visibles y oscuros */
+h1, h2, h3, h4, h5, h6 {
+  color: #15342f;
+  margin-top: 0;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
